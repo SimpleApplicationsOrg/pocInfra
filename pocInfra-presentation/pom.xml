@@ -202,4 +202,5 @@
         </plugins>
     </build>
 
+    <name>PocInfraPresentation</name>
 </project>
