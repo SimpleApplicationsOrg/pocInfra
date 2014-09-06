@@ -3,7 +3,7 @@ PocInfra
 
 Sample spring-boot-jpa + spring-boot-vaadin
 
-mvn package
+mvn install
 
 java -jar pocInfra-presentation/target/PocInfraPresentation.jar
 
